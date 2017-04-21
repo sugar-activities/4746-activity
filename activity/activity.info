@@ -1,0 +1,6 @@
+[Activity]
+name = Fractionauts
+bundle_id = org.hfoss.fractionauts
+exec = sugar-activity FractionautsActivity.FractionautsActivity
+icon = fractionauts
+activity_version = 1
